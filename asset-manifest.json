@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/UtkarshForm/static/css/main.d924d60a.css",
-    "main.js": "/UtkarshForm/static/js/main.ea37ae14.js",
-    "static/media/Sea of Clouds-10s-1536px.png": "/UtkarshForm/static/media/Sea of Clouds-10s-1536px.625878394f8ee1d6af34.png",
-    "index.html": "/UtkarshForm/index.html",
-    "main.d924d60a.css.map": "/UtkarshForm/static/css/main.d924d60a.css.map",
-    "main.ea37ae14.js.map": "/UtkarshForm/static/js/main.ea37ae14.js.map"
+    "main.css": "/Utkarsh/static/css/main.1f1702aa.css",
+    "main.js": "/Utkarsh/static/js/main.ea37ae14.js",
+    "static/media/Sea of Clouds-10s-1536px.png": "/Utkarsh/static/media/Sea of Clouds-10s-1536px.625878394f8ee1d6af34.png",
+    "index.html": "/Utkarsh/index.html",
+    "main.1f1702aa.css.map": "/Utkarsh/static/css/main.1f1702aa.css.map",
+    "main.ea37ae14.js.map": "/Utkarsh/static/js/main.ea37ae14.js.map"
   },
   "entrypoints": [
-    "static/css/main.d924d60a.css",
+    "static/css/main.1f1702aa.css",
     "static/js/main.ea37ae14.js"
   ]
 }
